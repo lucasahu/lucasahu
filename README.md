@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @lucasahu
+- 📍 I’m based in Chile, Valparaiso 
+- 👀 I’m interested in software development, photography and gaming
+- 🌱 I’m currently learning Javascript, HTML, CSS, Reactjs and more with The Odin Project
+- 💞️ I’m looking to collaborate on any cool projects
+- 📫 You can reach me at @lucasahudev on twitter or send me an email at lucasignahumada@gmail.com
